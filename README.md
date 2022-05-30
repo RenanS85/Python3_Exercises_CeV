@@ -7,7 +7,16 @@
 <p><a href ="https://www.cursoemvideo.com/curso/python-3-mundo-3/" >Python3_Mundo_3</a> --> Estruturas de dados, funções, módulos e tratamento de erros.<p>
 
 <h3>Exercícios_Mundo_1</h3> 
-<p><a href = "https://github.com/RenanS85/Python_Exercices_CeV/tree/master/Mundo_1">Entrar_No_Mundo</a></p>
-<p><a href = "https://github.com/RenanS85/Python_Exercices_CeV/tree/master/Mundo_1/Primeiros_passos_com_Python_Ex_1-2"> Primeiros_passos_com_Python_Ex_1-2</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_1">Entrar_No_Mundo</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_1/Primeiros_passos_com_Python_Ex_1-2"> Primeiros_passos_com_Python_Ex_1-2</a></p>
 <p><a href = "https://github.com/RenanS85/Python_Exercices_CeV/tree/master/Mundo_1/Tratando_dado_e_fazendo_contas_Ex_3-15">Tratando_dado_e_fazendo_contas_Ex_3-15</a></p>
-<p><a href = "https://github.com/RenanS85/Python_Exercices_CeV/tree/master/Mundo_1/Usando_modulos_do_Python_Ex_16-27">Usando_modulos_do_Python_Ex_16-27</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_1/Usando_modulos_do_Python_Ex_16-27">Usando_modulos_do_Python_Ex_16-27</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_1/Condicoes_Python_Ex_28-35">Condicoes_Python_Ex_28-35</a></p>
+
+<h3>Exercícios_Mundo_2</h3> 
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_2">Entrar_No_Mundo</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/mundo_2/Condicoes_Pythons_Ex_36-45">Condicoes_Pythons_Ex_36-45</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/mundo_2/Estrutura_repeticao_FOR__Ex_46-56">Estrutura_repeticao_FOR__Ex_46-56</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/mundo_2/Repeticao_WHILE_Ex_57-71">Repeticao_WHILE_Ex_57-71</a></p>
+
+

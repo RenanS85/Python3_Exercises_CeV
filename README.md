@@ -14,7 +14,7 @@
 <p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_1/Condicoes_Python_Ex_28-35">Condicoes_Python_Ex_28-35</a></p>
 
 <h3>Exercícios_Mundo_2</h3> 
-<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_2">Entrar_No_Mundo</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/mundo_2">Entrar_No_Mundo</a></p>
 <p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/mundo_2/Condicoes_Pythons_Ex_36-45">Condicoes_Pythons_Ex_36-45</a></p>
 <p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/mundo_2/Estrutura_repeticao_FOR__Ex_46-56">Estrutura_repeticao_FOR__Ex_46-56</a></p>
 <p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/mundo_2/Repeticao_WHILE_Ex_57-71">Repeticao_WHILE_Ex_57-71</a></p>

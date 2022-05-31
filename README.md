@@ -1,4 +1,8 @@
+<header>
 <h1>Python_Exercices_CeV</h1>
+<h4>Aqui você encontrará resoluções alternativas escritas por mim, isso bastante Programação Orientada a Objetos, principalmente em exercícios de cadastros de pessoas e produtos</h4> 
+</header>
+
 <h3>Exercícios dos 3 Mundos de Python Resolvidos XD</h3>
 </header>
 <p>Plataforma - <a href = "https://www.cursoemvideo.com/cursos/">Curso em Vídeo</a></p>

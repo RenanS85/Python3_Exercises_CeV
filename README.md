@@ -19,4 +19,12 @@
 <p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/mundo_2/Estrutura_repeticao_FOR__Ex_46-56">Estrutura_repeticao_FOR__Ex_46-56</a></p>
 <p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/mundo_2/Repeticao_WHILE_Ex_57-71">Repeticao_WHILE_Ex_57-71</a></p>
 
-
+<h3>Exercícios_Mundo_3</h3>
+<p><a href = ""></a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_3">Entrar_No_Mundo</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_3/A)_Tuplas_Ex_72-77">Tuplas_Ex_72-77</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_3/B)_Listas_Ex_78-89">Listas_Ex_78-89</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_3/C)_Dicionarios_Ex_90-95">Dicionarios_Ex_90-95</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_3/D)_Funcoes_Ex_96-106">Funcoes_Ex_96-106</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_3/E)_Modularizacao_Ex_107-112">Modularizacao_Ex_107-112</a></p>
+<p><a href = "https://github.com/RenanS85/Python3_Exercises_CeV/tree/master/Mundo_3/F)_Tratamento_Erros_Ex_113-115">Tratamento_Erros_Ex_113-115</a></p>

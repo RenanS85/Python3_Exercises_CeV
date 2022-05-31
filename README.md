@@ -1,7 +1,9 @@
 <header>
 <h1>Python_Exercices_CeV</h1>
-<h4>Aqui você encontrará resoluções alternativas escritas por mim, isso bastante Programação Orientada a Objetos, principalmente em exercícios de cadastros de pessoas e produtos</h4> 
+<h4>Aqui você encontrará resoluções alternativas escritas por mim, isso inclui bastante Programação Orientada a Objetos, principalmente em exercícios de cadastros de pessoas e produtos</h4> 
 </header>
+
+<p>Os 3 Mundos do CeV foram meu primeiro contato com a linguagem Python, as 115 resoluções foram revisadas e reestruturadas, agora elas estão aqui para fazer parte de seus estudos também.</p>
 
 <h3>Exercícios dos 3 Mundos de Python Resolvidos XD</h3>
 </header>
